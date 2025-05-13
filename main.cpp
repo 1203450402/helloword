@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// 阿狸添加注释
 void sort(int arr[],int size){
 	int tmp=0;
 	for(int i=0;i<size-1;++i){
