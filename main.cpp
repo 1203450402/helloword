@@ -6,6 +6,9 @@ void sort(int arr[],int size){
 	// 快速排序
 }
 
+// xx
+// test write
+//
 
 
 int main(){
