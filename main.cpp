@@ -7,6 +7,7 @@ void sort(int arr[],int size){
 }
 
 // main
+// test
 int main(){
 	// 小张添加了注释
 	int arr[]={12,3,4,31,24};
