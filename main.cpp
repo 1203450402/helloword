@@ -6,11 +6,7 @@ void sort(int arr[],int size){
 	// 快速排序
 }
 
-// main一下
 
-
-
-//xxx
 int main(){
 	// 小张添加了注释
 	int arr[]={12,3,4,31,24};
